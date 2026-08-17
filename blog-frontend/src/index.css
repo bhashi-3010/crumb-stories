@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Inter:wght@400;500;600;700&display=swap');
+
+@import "tailwindcss";
+
+body {
+  background: #FFF9F5;
+  font-family: "Inter", sans-serif;
+  color: #2B2D42;
+}
+
+h1, h2, h3 {
+  font-family: "DM Serif Display", serif;
+}
+
+* {
+  scroll-behavior: smooth;
+}
